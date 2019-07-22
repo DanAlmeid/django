@@ -1,0 +1,28 @@
+#byte-complied / optimized / dll files
+__pycache__/
+
+#distribution / packagin
+
+.Python
+
+#django stuff:
+*.log
+local_setting.py
+db.sqlite3
+
+#enviroments 
+.env
+.venv
+env/
+vemv/
+ENV/
+
+#mkdocs documentation
+/site
+
+# ide 
+.vscode
+
+
+
+__init__.py
